@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Testing
+*.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# Environment
+.env
+.venv/
+
+# Logs
+*.log
