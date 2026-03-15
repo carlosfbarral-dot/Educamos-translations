@@ -1,9 +1,4 @@
-# Requirements file for Educamos-translations
-
-PyQt6
-SQLAlchemy
-pandas
+anthropic
 openpyxl
-pytest
-black
-# Add any other dependencies here
+pandas
+streamlit
